@@ -12,7 +12,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/anuragyadav16/model-latest.git
+git remote add origin https://github.com/somipoorey/model-latest.git
 git push -u origin main
 
 Note: Git lfs can be setup using https://git-lfs.github.com/
